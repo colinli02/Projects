@@ -1,4 +1,4 @@
-# Projects
+# Colin Li's Projects
 Demos of my past projects. 
 There is no specific reason for the order of these projects listed here.
 
