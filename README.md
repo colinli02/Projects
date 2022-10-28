@@ -22,6 +22,7 @@ This first video shows a similar project of a temperature monitor.
 [Temp Monitor Demo Video](https://youtu.be/DtizvK82OfQ)
 
 [Heartrate Monitor Demo Video](https://youtu.be/MpQabdz20nY)
+
 Link to code:
 
 ```
