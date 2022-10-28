@@ -10,8 +10,8 @@ Link to code: https://github.com/colinli02/Projects/tree/main/Robot_Base_Final
 ```
 
 • Built a PIC32 microcontroller controlled and battery powered robot coin picker
-• Wrote C software for robot wheel control, magnetic arm movement, and boundary perimeter detection of AC
-perimeter
+• Wrote C software for robot wheel control, magnetic arm movement, 
+and boundary perimeter detection of ACperimeter
 • Debugged and optimised software and hardware issues
 ```
 
@@ -32,8 +32,8 @@ https://youtu.be/pHFQ8-BD4R0
 
 Link to code:
 ```
-
 • Built a software based AC voltmeter using C
-• Understood AC circuit concepts to create voltmeter that determined magnitude, phase shift, and phase of AC
+• Understood AC circuit concepts to create voltmeter that 
+determined magnitude, phase shift, and phase of AC
 signals produced by function generator
 ```
