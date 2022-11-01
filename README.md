@@ -4,9 +4,9 @@ There is no specific reason for the order of these projects listed here.
 
 # Robotic Coin Picker (March 2022 - April 2022)
 
-    [Youtube Link](https://youtu.be/euFSMJPZnGc)
+[Youtube Link](https://youtu.be/euFSMJPZnGc)
 
-    [Github Code Link](https://github.com/colinli02/Projects/tree/main/Robot_Base_Final)
+[Github Code Link](https://github.com/colinli02/Projects/tree/main/Robot_Base_Final)
 
     ```
     • Built a PIC32 microcontroller controlled and battery powered robot coin picker
