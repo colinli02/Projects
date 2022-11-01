@@ -23,7 +23,7 @@ This first video shows a similar project of a temperature monitor.
 
 [Heartrate Monitor Demo Video](https://youtu.be/MpQabdz20nY)
 
-Link to code:
+Link to code: (WIP)
 
 ```
 • Developed AT89LP51RC2 microcontroller based photoelectric heart rate monitor
@@ -34,7 +34,7 @@ Link to code:
 
 [Youtube Link](https://youtu.be/pHFQ8-BD4R0)
 
-Link to code:
+Link to code: (WIP)
 ```
 • Built a software based AC voltmeter using C
 • Understood AC circuit concepts to create voltmeter that 
