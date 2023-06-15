@@ -1,6 +1,5 @@
 # Colin Li's Projects
 Demos of my past projects. 
-There is no specific reason for the order of these projects listed here.
 
 # Robotic Coin Picker (March 2022 - April 2022)
 
@@ -9,9 +8,9 @@ There is no specific reason for the order of these projects listed here.
 [Github Code Link](https://github.com/colinli02/Projects/tree/main/Robot_Base_Final)
 
 ```
-• Built a PIC32 microcontroller controlled and battery powered robot coin picker
+• PIC32 microcontroller controlled and battery powered robot coin picker
 • Wrote C software for robot wheel control, magnetic arm movement, 
-and boundary perimeter detection of AC erimeter
+and boundary perimeter detection of AC perimeter
 • Debugged and optimised software and hardware issues
 ```
 
