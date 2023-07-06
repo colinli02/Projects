@@ -2,7 +2,6 @@ site_name: Colin Li's Projects
 site_url: https://colinli02.github.io/Projects/
 
 nav:
-    - Home: home.md
     - Coin Robot: CoinRobot.md
     - Micro Controller Projects: MicroControllerProjects.md
     - UDP Network Pinger: UDPNetworkPinger.md
