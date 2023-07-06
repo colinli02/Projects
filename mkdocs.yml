@@ -4,8 +4,6 @@ site_url: https://colinli02.github.io/Projects/
 nav:
     - Coin Robot: CoinRobot.md
     - Micro Controller Projects: MicroControllerProjects.md
-    - UDP Network Pinger: UDPNetworkPinger.md
-    - Basic HTML Web Server: BasicHTMLWeb.md
     - About: about.md
 
 theme:
@@ -13,5 +11,11 @@ theme:
 
 markdown_extensions:
   - admonition # For !!! noteblocks 
-  - pymdownx.snippets: # For quoting using --8<--
+  - pymdownx.snippets: # For quoting using --8<-- to insert markdown or html only
       url_download: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
