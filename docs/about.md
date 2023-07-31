@@ -1,12 +1,13 @@
-# Site is built using mkdocs
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# About
 
-## Project layout
+## About me
 
-    mkdocs.yml    # The configuration file.
-    docs/
+You can find my social links at the bottom-right of the footer.
+
+## Project Site Code Layout
+
+    /.github       # Contains basic CI
+    /mkdocs.yml    # The configuration file.
+    /docs
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## To preview locally:
-- mkdocs serve
+        ___.md       # Other markdown pages, images and other files.
