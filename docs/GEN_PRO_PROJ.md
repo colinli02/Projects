@@ -9,7 +9,7 @@
 [Repo Link](https://github.com/FondoExtension/stress_extension)
 
 <div class="video-wrapper">
-  <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=aM8T7NrxORU" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aM8T7NrxORU?si=bhdVl2H2uye1q4ez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
