@@ -47,3 +47,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.details
+  - mkdocs-click
+  - pymdownx.details
+  - pymdownx.snippets
