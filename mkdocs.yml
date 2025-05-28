@@ -6,7 +6,7 @@ nav:
     - About: about.md
     - Micro-Controller: MicroControllerProjects.md
     - Machine Learning: ML_PROJ.md
-    - Software: GEN_PRO_PROJ.md
+    - General Software: GEN_PRO_PROJ.md
 
 theme:
   name: material
@@ -47,6 +47,5 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.details
-  - mkdocs-click
   - pymdownx.details
   - pymdownx.snippets
