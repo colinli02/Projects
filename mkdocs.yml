@@ -3,7 +3,6 @@ site_url: https://colinli02.github.io/Projects/
 
 nav:
     - Home: index.md
-    - About: about.md
     - Micro-Controller: MicroControllerProjects.md
     - Machine Learning: ML_PROJ.md
     - General Software: GEN_PRO_PROJ.md

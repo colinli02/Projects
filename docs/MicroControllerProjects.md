@@ -23,7 +23,6 @@
     ```c title="Robot_Base.c"
     --8<-- "https://raw.githubusercontent.com/colinli02/Projects/main/Project_Repos/Robot_Base_Final/Robot_Base.c"
     ```
- 
 
 ## **Diode Heartrate Monitor (Feb. 2022 - March 2022)**
 
@@ -40,7 +39,6 @@ Then this information is processed using the microcontroller circuit and 2 codes
     --8<-- "https://raw.githubusercontent.com/colinli02/Projects/refs/heads/main/Project_Repos/diode_hr_mtr/heart-mtr_graphing.py"
 
     ```
-
 
 ??? "Click to show C code"
     ``` c title="heart-mtr_at89.c"
