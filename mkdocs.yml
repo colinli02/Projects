@@ -1,0 +1,62 @@
+site_name: Colin Li's Projects 
+site_url: https://colinli02.github.io/Projects/
+
+nav:
+    - Home: index.md
+    - Microcontroller: MicroControllerProjects.md
+    - Machine Learning: ML_PROJ.md
+    - Controls: CONTROLS_PROJ.md
+    - Circuit Design: CIRCUIT_PROJ.md
+    - Web Development: WEB_PROJ.md
+    - General Software: GEN_PRO_PROJ.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.footer
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+    - content.footnotes
+    - header.autohide
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    - scheme: dracula
+      primary: cyan
+      accent: cyan
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/colin-li-426124222/
+    - icon: fontawesome/brands/github
+      link: https://github.com/colinli02
+
+markdown_extensions:
+  - admonition
+  - pymdownx.snippets:
+      url_download: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
