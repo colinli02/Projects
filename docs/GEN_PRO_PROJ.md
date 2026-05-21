@@ -8,8 +8,6 @@ A simple read–eval–print loop ("REPL") c based db.
 
 It contains basic sqlite based commands (detailed below), functioning in a command line interface when ran as "db".
 
-It also supports disk persistence, meaning instead of being temporarily stored in the memory (stack), it will be stored into the disk instead. This means we can access our data when we re-boot, similar to a regular db.
-
 ## **PiP Quick Access Study Video Extension** (2024)
 
 Chrome-based Picture-in-Picture extension.
