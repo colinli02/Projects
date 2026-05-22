@@ -2,14 +2,24 @@
 
 ## Self Balancing 2 Wheel Driveable Bluetooth Rrobot (2025 May)
 
-- Built a self‑balancing, rideable two‑wheel robot using an Arduino Nano 33 BLE Sense
-- Implemented a PID‑controlled stabilization system for real‑time balance correction
-- Designed firmware with easily tunable PID parameters for rapid iteration and optimization
-- Added Bluetooth control for remote driving and parameter adjustment
+- Built a self‑balancing, rideable two‑wheel robot powered by an Arduino Nano 33 BLE Sense
 
-??? "Click to show code"
+- Implemented a real‑time PID stabilization system for dynamic balance correction
+
+- Developed firmware with runtime‑tunable PID parameters for rapid iteration and optimization using Arduino CLI
+
+- Added Bluetooth‑based remote control and PID adjustment through a Flutter mobile app
+
+- Implemented lightweight SCADA‑style real‑time monitoring tool built in Python.
+
+??? "Click to show Arduino code"
     ``` c title="PIDRobot.ino"
     --8<-- "https://raw.githubusercontent.com/colinli02/Projects/refs/heads/main/Project_Repos/PIDRobot/PIDRobot.ino"
+    ```
+
+??? "Click to show A lightweight SCADA‑style real‑time monitoring tool built in Python."
+    ``` py title="display.py"
+    --8<-- "https://raw.githubusercontent.com/colinli02/Projects/refs/heads/main/Project_Repos/PIDRobot/display.py"
     ```
 
 ## Simulink Control System for SpO₂ Regulation (2026 April)
