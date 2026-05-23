@@ -8,6 +8,14 @@ A simple read–eval–print loop ("REPL") c based db.
 
 It contains basic sqlite based commands (detailed below), functioning in a command line interface when ran as "db".
 
+## Basic Github Deployment CI on this website
+
+- This website is using this! (check out the source code in `.github` folder)
+
+- Built a CI workflow using GitHub Actions to automatically build and deploy MkDocs Material documentation to GitHub Pages.
+
+- Implemented build caching and automated Python environment setup to speed up deployments and reduce manual effort.
+
 ## **PiP Quick Access Study Video Extension** (2024)
 
 Chrome-based Picture-in-Picture extension.

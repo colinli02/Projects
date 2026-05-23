@@ -1,28 +1,28 @@
 # Controls Projects
 
-## Self Balancing 2 Wheel Driveable Bluetooth Rrobot (2025 May)
+## Self Balancing 2 Wheel Driveable Bluetooth Robot (2025 April - 2025 May)
 
-- Built a self‑balancing, rideable two‑wheel robot powered by an Arduino Nano 33 BLE Sense
+- Built a self-balancing, rideable two-wheel robot powered by an Arduino Nano 33 BLE Sense
 
-- Implemented a real‑time PID stabilization system for dynamic balance correction
+- Implemented a real-time PID stabilization system for dynamic balance correction
 
-- Developed firmware with runtime‑tunable PID parameters for rapid iteration and optimization using Arduino CLI
+- Developed firmware with runtime-tunable PID parameters for rapid iteration and optimization using Arduino CLI
 
-- Added Bluetooth‑based remote control and PID adjustment through a Flutter mobile app
+- Added Bluetooth-based remote control and PID adjustment through a Flutter mobile app
 
-- Implemented lightweight SCADA‑style real‑time monitoring tool built in Python.
+- Implemented lightweight SCADA style real-time monitoring tool built in Python.
 
 ??? "Click to show Arduino code"
-    ``` c title="PIDRobot.ino"
+    --- c title="PIDRobot.ino"
     --8<-- "https://raw.githubusercontent.com/colinli02/Projects/refs/heads/main/Project_Repos/PIDRobot/PIDRobot.ino"
-    ```
+    ---
 
-??? "Click to show A lightweight SCADA‑style real‑time monitoring tool built in Python."
-    ``` py title="display.py"
+??? "Click to show Python code"
+    --- py title="display.py"
     --8<-- "https://raw.githubusercontent.com/colinli02/Projects/refs/heads/main/Project_Repos/PIDRobot/display.py"
-    ```
+    ---
 
-## Simulink Control System for SpO₂ Regulation (2026 April)
+## Simulink Control System for SpO₂ Regulation (2026 March - 2026 April)
 
 - Designed a PI-based control system in MATLAB/Simulink to regulate blood oxygen saturation (SpO₂) via FiO₂ under delay, nonlinearity, and disturbances (HR, RR).  
 - Implemented feedforward compensation, anti-windup, dead zone, and filtering to improve stability and robustness.  
