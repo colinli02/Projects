@@ -2,7 +2,7 @@
 
 ## **Ready Evaluate Print Loop SQlite based C Database** (2024)
 
-[Repo Link](https://github.com/colinli02/cpp_repl_db)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-CPP_REPL_DB-blue?logo=github)](https://github.com/colinli02/cpp_repl_db)
 
 A simple read–eval–print loop ("REPL") c based db.
 
@@ -20,7 +20,7 @@ It contains basic sqlite based commands (detailed below), functioning in a comma
 
 Chrome-based Picture-in-Picture extension.
 
-[Repo Link](https://github.com/FondoExtension/stress_extension)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-stress_extension-blue?logo=github)](https://github.com/FondoExtension/stress_extension)
 
 Developed a Chrome extension using Manifest V3 that enables Picture‑in‑Picture playback for any webpage video, featuring a custom popup UI and background service worker for seamless user interaction.
 

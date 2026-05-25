@@ -1,5 +1,13 @@
 # Controls Projects
 
+## SCADALite: A Lightweight Python based SCADA Dashboard (2026 April - 2026 May)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-SCADALite-blue?logo=github)](https://github.com/colinli02/SCADALite)
+
+- Developed a lightweight Python-based SCADA dashboard for real-time telemetry visualization, alarm monitoring, serial/COM device integration, and historical data trending.
+
+![SCADALite Dashboard](https://raw.githubusercontent.com/colinli02/SCADALite/main/Capture.PNG)
+
 ## Self Balancing 2 Wheel Driveable Bluetooth Robot (2025 April - 2025 May)
 
 - Built a self-balancing, rideable two-wheel robot powered by an Arduino Nano 33 BLE Sense
