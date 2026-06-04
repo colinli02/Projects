@@ -21,14 +21,15 @@
 - Implemented lightweight SCADA style real-time monitoring tool built in Python.
 
 ??? "Click to show Arduino code"
-    --- c title="PIDRobot.ino"
+    ``` c title="PIDRobot.ino"
     --8<-- "https://raw.githubusercontent.com/colinli02/Projects/refs/heads/main/Project_Repos/PIDRobot/PIDRobot.ino"
-    ---
+    ```
 
 ??? "Click to show Python code"
-    --- py title="display.py"
+    ``` py linenums="1" title="display.py"
     --8<-- "https://raw.githubusercontent.com/colinli02/Projects/refs/heads/main/Project_Repos/PIDRobot/display.py"
-    ---
+
+    ```
 
 ## Simulink Control System for SpO₂ Regulation (2026 March - 2026 April)
 
