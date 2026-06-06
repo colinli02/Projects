@@ -1,6 +1,6 @@
 # Controls Projects
 
-## SCADALite: A Lightweight Python based SCADA Dashboard (2026 April - 2026 May)
+## SCADALite: A Lightweight Python based SCADA Dashboard (2025 - 2026)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-SCADALite-blue?logo=github)](https://github.com/colinli02/SCADALite)
 
