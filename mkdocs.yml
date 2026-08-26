@@ -4,11 +4,19 @@ site_url: https://colinli02.github.io/Projects/
 nav:
     - Home: index.md
     - Microcontroller: MicroControllerProjects.md
-    - Machine Learning: ML_PROJ.md
+    - Machine Learning:
+        - Overview: ML_PROJ.md
+        - Simple CNN & BP: Notebooks/Simple_CNN_Notebook.ipynb
+        - CUDA Transformer: Notebooks/CUDA_TFM_Classifier_Notebook.ipynb
+        - MNIST VAE: Notebooks/MNIST_VAE_Notebook.ipynb
     - Controls: CONTROLS_PROJ.md
     - Circuit Design: CIRCUIT_PROJ.md
     - Web Development: WEB_PROJ.md
     - General Software: GEN_PRO_PROJ.md
+
+plugins:
+  - search
+  - mkdocs-jupyter
 
 theme:
   name: material
